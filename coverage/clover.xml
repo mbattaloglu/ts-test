@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1699365719667" clover="3.2.0">
+  <project timestamp="1699365719667" name="All files">
+    <metrics statements="51" coveredstatements="25" conditionals="35" coveredconditionals="19" methods="31" coveredmethods="9" elements="117" coveredelements="53" complexity="0" loc="51" ncloc="51" packages="1" files="1" classes="1"/>
+    <file name="index.ts" path="C:\Users\mbattaloglu\Desktop\test\ts-test\src\tree\index.ts">
+      <metrics statements="51" coveredstatements="25" conditionals="35" coveredconditionals="19" methods="31" coveredmethods="9"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="5" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="18" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="53" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="57" count="0" type="stmt"/>
+      <line num="59" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="67" count="0" type="stmt"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="81" count="1" type="stmt"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="88" count="0" type="stmt"/>
+      <line num="90" count="0" type="stmt"/>
+      <line num="92" count="0" type="stmt"/>
+      <line num="98" count="0" type="cond" truecount="0" falsecount="3"/>
+      <line num="99" count="0" type="stmt"/>
+      <line num="106" count="0" type="stmt"/>
+      <line num="109" count="0" type="stmt"/>
+      <line num="114" count="5" type="stmt"/>
+      <line num="116" count="1" type="stmt"/>
+      <line num="121" count="1" type="stmt"/>
+      <line num="122" count="0" type="stmt"/>
+      <line num="124" count="1" type="stmt"/>
+      <line num="128" count="5" type="stmt"/>
+      <line num="135" count="1" type="stmt"/>
+      <line num="143" count="9" type="stmt"/>
+      <line num="144" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="145" count="6" type="stmt"/>
+      <line num="147" count="3" type="stmt"/>
+      <line num="149" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="157" count="3" type="stmt"/>
+      <line num="167" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
